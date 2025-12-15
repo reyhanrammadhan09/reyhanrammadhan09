@@ -1,16 +1,16 @@
-## Hi there 👋
+ ```
+            d8,  d8b                                     d8b                  
+           `8P   ?88                                     88P                  
+                 88b                                     d88                  
+?88   d8P  88b  888888b  d8888b      d8888b d8888b  d888888   d8888b  88bd88b 
+d88  d8P'  88P  88P `?8bd8b_,dP     d8P' `Pd8P' ?88d8P' ?88  d8b_,dP  88P'    
+?8b ,88'  d88  d88,  d8888b         88b    88b  d8888b  ,88b 88b     d88      
+`?888P'  d88' d88'`?88P'`?888P'     `?888P'`?8888P'`?88P'`88b`?888P'd88'      
+                                                                             
 
-<!--
-**reyhanrammadhan09/reyhanrammadhan09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  _ _  _ ____ ___    ___  ____    ___ _  _ _ ____    |      _________ ______ ______
+  | |  | [__   |     |  \ |  |     |  |__| | [__     |    || ctrl  ||| c  ||| v  ||
+_| |__| ___]  |     |__/ |__|     |  |  | | ___]    |    ||_______|||____|||____||
+                                                     |    |/_______\|/____\|/____\|  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
